@@ -5,7 +5,7 @@ Learner’s Academy is a school that has an online management system. The system
 <br>
 
 ### Demo Screeshots
-![Learners Desktop Demo](desktop.png "Desktop Demo")
+![Learners Desktop Demo](Desktop.png "Desktop Demo")
 
 
 
