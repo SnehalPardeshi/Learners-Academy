@@ -4,6 +4,10 @@ Learner’s Academy is a school that has an online management system. The system
 </div>
 <br>
 
+### Demo Screeshots
+![Learners Desktop Demo](desktop.png "Desktop Demo")
+
+
 
 ### Core Concepts used
 1. Java Servlets.
